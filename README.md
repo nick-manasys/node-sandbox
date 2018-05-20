@@ -12,6 +12,6 @@ To run node application execute
 
 To clean up after running application execute
 ```
-./build.sh
+./kill.sh
 ```
 
