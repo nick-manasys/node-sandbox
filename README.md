@@ -15,3 +15,4 @@ To clean up after running application execute
 ./kill.sh
 ```
 
+To application can be reached at http://localhost:8080/
