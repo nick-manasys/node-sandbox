@@ -1,0 +1,13 @@
+{
+  "name": "aut_docker_node_web_app",
+  "version": "0.0.1",
+  "description": "Node.js on Docker",
+  "author": "Nick <nick@manasys.co.nz>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
